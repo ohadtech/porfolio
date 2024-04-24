@@ -80,10 +80,10 @@ const About = () => {
           className="flex-1"
         >
           <p className="text-textWhite p-4 text-lg sm:text-xl sm:leading-7">
-            I am a passionate MERN Stack Developer and a Problem Solver,
+            I am a passionate Full Stack Developer and a Problem Solver,
             dedicated to creating impactful codes that thrive on the internet.
             <br />I have experience working with React,React
-            Native,JavaScript,PHP, TypeScript, HTML, CSS, Node js,Postman,MYSQL
+            Native,JavaScript,PHP, HTML, CSS, Node js,Postman,MYSQL
             Express.js,Firebase,Tailwind CSS, and Git.
             <br />I am a quick learner and I am always looking to expand my
             knowledge and skill set.
