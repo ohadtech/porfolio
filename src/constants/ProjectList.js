@@ -10,27 +10,20 @@ export const ProjectList = [
     id: 1,
     name: "Byte Brain Hub",
     description:
-      "A collaborative platform crafted with Next.js, enables users to share insights globally. Featuring Google Authentication via NextAuth. Powered by MongoDB for efficient data storage, ByteBrainHub allows users to create, share insights with tags for easy discovery. With a user-friendly interface, it offers a seamless and enjoyable browsing experience, fostering a community-driven exchange of diverse ideas.",
+      "A collaborative platform crafted with React.js, enables users to share insights globally. Featuring Google Authentication via NextAuth. Powered by MongoDB for efficient data storage, ByteBrainHub allows users to create, share insights with tags for easy discovery. With a user-friendly interface, it offers a seamless and enjoyable browsing experience, fostering a community-driven exchange of diverse ideas.",
     img: byte,
     //max 6 tech stack
-    tech: ["Next.js", "Tailwind CSS", "Mongo DB", "Node.js"],
+    tech: ["React.js", "Tailwind CSS", "Node.js"],
     demo: "https://byte-brain-hub.vercel.app/",
   },
   {
     id: 2,
     name: "E-Commerce",
     description:
-      "Our Flipkart Clone, built with MERN stack, revolutionizes online shopping. It provides secure user authentication, extensive product catalog, efficient cart management, and Stripe-powered payments. Users easily access order history, while admins have a dedicated dashboard. Responsive design, Bcrypt-secured passwords, and Cloudinary image storage ensure a seamless and secure shopping experience.",
+      "Our Flipkart Clone, built with Full stack, revolutionizes online shopping. It provides secure user authentication, extensive product catalog, efficient cart management, and Stripe-powered payments. Users easily access order history, while admins have a dedicated dashboard. Responsive design, Bcrypt-secured passwords, and Cloudinary image storage ensure a seamless and secure shopping experience.",
     img: ecommerce,
     //max 6 tech stack
-    tech: [
-      "React.js",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Tailwind CSS",
-      "Stripe",
-    ],
+    tech: ["React.js", "Node.js", "Express.js", "Tailwind CSS"],
     demo: "https://better-overcoat-fly.cyclic.cloud/",
   },
   {
@@ -60,7 +53,7 @@ export const ProjectList = [
       "The Whisper Wave built with Node.js, Express.js, and Passport.js, provides a user-friendly platform for secure registration, secret sharing, and anonymous content viewing. It incorporates Google OAuth 2.0 for seamless login. With a focus on ease of use, it showcases modern web development in a straightforward manner, offering a safe and engaging online experience.",
     img: authorisation,
     //max 6 tech stack
-    tech: ["Node.js", "Express.js", "EJS", "MongoDB", "Passport.js"],
+    tech: ["Node.js", "Express.js", "MYSQL", "Passport.js"],
     demo: null,
   },
   {
