@@ -1,13 +1,9 @@
 import { useForm, ValidationError } from "@formspree/react";
 import linkedin from "../assets/linkedin.svg";
-import git from "../assets/git.svg";
-import twitter from "../assets/twitter.svg";
-import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { BsLinkedin, BsGithub } from "react-icons/bs";
-import Loading from "./Loading";
+import { BsGithub } from "react-icons/bs";
 
 const Contact = () => {
   const refHeading = useRef(null);

@@ -14,7 +14,6 @@ export const ProjectList = [
     img: byte,
     //max 6 tech stack
     tech: ["Next.js", "Tailwind CSS", "Mongo DB", "Node.js"],
-    source: "https://github.com/aashish-dhiman/byte-brain-hub",
     demo: "https://byte-brain-hub.vercel.app/",
   },
   {

@@ -16,10 +16,7 @@ export const Skills = [
     img: js,
     description: "JavaScript",
   },
-  {
-    img: typescript,
-    description: "TypeScript",
-  },
+
   {
     img: html,
     description: "HTML",
