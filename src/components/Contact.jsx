@@ -78,7 +78,7 @@ const Contact = () => {
           </p>
           <div className="flex flex-row gap-5 mt-6">
             <a
-              href="https://github.com/aashish-dhiman/"
+              href="https://github.com/adeelmemon123"
               className="relative group hover:-translate-y-[2px] transition-all duration-500 ease-in-out "
               target="_blank"
               rel="noopener noreferrer"

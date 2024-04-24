@@ -1,15 +1,7 @@
 import { TypeAnimation } from "react-type-animation";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import {
-  Link as ScrollLink,
-  Button,
-  Element,
-  Events,
-  animateScroll as scroll,
-  scrollSpy,
-  scroller,
-} from "react-scroll";
+import { Link as ScrollLink, animateScroll as scroll } from "react-scroll";
 import { Suspense } from "react";
 import Loading from "./Loading";
 

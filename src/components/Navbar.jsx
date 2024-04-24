@@ -68,7 +68,7 @@ const Navbar = () => {
                     <BsLinkedin />
                   </a>
                   <a
-                    href="https://github.com/aashish-dhiman"
+                    href="https://github.com/adeelmemon123"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -139,7 +139,7 @@ const Navbar = () => {
           </span>
           <span className="py-2 px-1 hover:-translate-y-[2px] transition-all duration-500 ease-in-out cursor-pointer">
             <a
-              href="https://github.com/aashish-dhiman"
+              href="https://github.com/adeelmemon123"
               target="_blank"
               rel="noopener noreferrer"
             >
