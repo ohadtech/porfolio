@@ -10,7 +10,7 @@ export const ProjectList = [
     id: 1,
     name: "Byte Brain Hub",
     description:
-      "A collaborative platform crafted with React.js, enables users to share insights globally. Featuring Google Authentication via NextAuth. Powered by MongoDB for efficient data storage, ByteBrainHub allows users to create, share insights with tags for easy discovery. With a user-friendly interface, it offers a seamless and enjoyable browsing experience, fostering a community-driven exchange of diverse ideas.",
+      "A collaborative platform crafted with React.js, enables users to share insights globally.ByteBrainHub allows users to create, share insights with tags for easy discovery. With a user-friendly interface, it offers a seamless and enjoyable browsing experience, fostering a community-driven exchange of diverse ideas.",
     img: byte,
     //max 6 tech stack
     tech: ["React.js", "Tailwind CSS", "Node.js"],
